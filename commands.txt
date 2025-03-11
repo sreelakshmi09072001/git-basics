@@ -1,0 +1,5 @@
+get config --global user.name "username"
+
+get config --global user.email "usermail"
+
+
