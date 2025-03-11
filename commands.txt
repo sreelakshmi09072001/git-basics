@@ -3,3 +3,4 @@ get config --global user.name "username"
 get config --global user.email "usermail"
 
 
+git init--->To initialize the git in pwd
