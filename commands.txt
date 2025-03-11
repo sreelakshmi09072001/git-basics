@@ -9,4 +9,13 @@ git add  -A ---> to add the  files and all changes into stageing area
 
 git commit -m "commit message" ---> adding staged files to local repository
 
- git status ---> list all untracked files 
+git status ---> list all untracked files 
+
+Create a repository in github
+copy the path of repository
+
+git remote  add name path 
+
+git remote -v ---> to get the name
+
+git push name branch --->to push the file into github
