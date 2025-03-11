@@ -5,8 +5,8 @@ get config --global user.email "usermail"
 
 git init --->To initialize the git in pwd
 
- git add  -A ---> to add the  files and all changes into stageing area
+git add  -A ---> to add the  files and all changes into stageing area
 
 git commit -m "commit message" ---> adding staged files to local repository
 
- git status ---> list all untracked files
+ git status ---> list all untracked files 
