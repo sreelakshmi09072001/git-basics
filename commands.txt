@@ -11,11 +11,16 @@ git commit -m "commit message" ---> adding staged files to local repository
 
 git status ---> list all untracked files 
 
-Create a repository in github
-copy the path of repository
+# Create a repository in github
+# copy the path of repository
 
 git remote  add name path 
 
 git remote -v ---> to get the name
 
 git push name branch --->to push the file into github
+
+git branch --->list all branches(by default masters/main)
+
+git branch branch_name ---> to create a branch
+
