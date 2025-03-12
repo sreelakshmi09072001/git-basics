@@ -27,3 +27,10 @@ git branch branch_name ---> to create a branch
 git checkout branch_name --->to shift a brach to another one
 
 git merge  branch_name ---> to merge from branch_name
+
+git pull path_name branch_name ---> to pull from the remote repository
+
+git clone path_of_file ---->to clone a repository to our workspace
+
+git pull path_name branch_name ---> to pull after cloned
+
