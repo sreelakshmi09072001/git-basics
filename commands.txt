@@ -24,3 +24,6 @@ git branch --->list all branches(by default masters/main)
 
 git branch branch_name ---> to create a branch
 
+git checkout branch_name --->to shift a brach to another one
+
+git merge  branch_name ---> to merge from branch_name
